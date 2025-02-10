@@ -144,6 +144,6 @@
    </footer>
 
     <script src="https://unpkg.com/scrollreveal"></script>
-    <script src="app.js"></script>
+    <script src="{{ URL::asset('js/interactive.js') }}"></script>
 </body>
 </html>
